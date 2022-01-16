@@ -1,5 +1,4 @@
 <p align="center">
- <img width="100px" src="https://avatars.githubusercontent.com/u/76021130?v=4" align="center" alt="GitHub Readme Stats" style="border-radius: 50%"/>
  <h2 align="center">Zeoojs</h2>
  <p align="center">一个喜欢做菜的程序员，坚持开源精神，共建和谐社会 ！! !</p>
 </p>
